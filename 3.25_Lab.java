@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LabProgram {
+public class 3.25_Lab {
    public static void main(String[] args) {
       Scanner scnr = new Scanner(System.in);
       int totalPennies = scnr.nextInt();
